@@ -1,10 +1,13 @@
 **Heart Disease Prediction using Machine Learning**
+
 Project Overview
 This project predicts whether a patient has heart disease or not using Machine Learning techniques.
 The dataset contains several medical attributes such as age, cholesterol level, blood pressure, and maximum heart rate.
 
 The goal of this project is to analyze the data, perform exploratory data analysis (EDA), and build a machine learning model to predict heart disease.
+
 **Dataset**
+
 Heart Disease Dataset (Kaggle)
 
 Important Features:
